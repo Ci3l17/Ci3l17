@@ -1,6 +1,6 @@
 #sobre mim
-- 🐇 Hi, I’m @Ci3l17
-- 🐄 meu email de contato é cordeiro.santos.melissa@escola.pr.gov.br
+- 🐐 Hi, I’m @Ci3l17
+- 🐒 meu email de contato é cordeiro.santos.melissa@escola.pr.gov.br
 - 🦥eu estou interessado a aprender e programar novas linguagens
 - 🌱eu estou aprendendo a programar recentemente a linguagem de javascript e scratch
 
